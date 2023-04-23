@@ -1,7 +1,7 @@
 Hi 👋 My name is Mukesh Badgujar
 ================================
 
-Python DJango Web & Desktop Developer
+Python Full Stack, DJango Web & Desktop Developer
 -------------------------------------
 
 Hello, I am working since I am in my college 1st yr. I have made a Mess Management System with a Fully Automated System in 3rd yr and got 1st Rank in NMU University in CSI Project Presentation. Currently working on Python, Django, ML, ASR Models, etc. working on many things same time is a little bit challanging but i can able to manage it.
